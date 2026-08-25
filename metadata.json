@@ -1,0 +1,6 @@
+{
+  "name": "مزرعة أطياب الوادي - إدارة المهام الذكية",
+  "description": "منظومة ذكية متكاملة لإدارة المهام اليومية، التوثيق الجغرافي بالـ GPS، التقويم الزراعي طويل المدى للقطاعات 9 و 10، والأرصاد الجوية بمحافظة الوادي الجديد",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
